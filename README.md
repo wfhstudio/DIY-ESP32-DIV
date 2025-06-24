@@ -29,7 +29,7 @@ GOD0 26
 GOD1 19
 GOD2 16
 
-        NRF 1      NNR2
+        NRF 1      NRF2
 CE        4           16
 CSN       5           17
 SCK      18           18
