@@ -5,6 +5,7 @@ Arduino IDE 1.8.19
 Board Managers:  must Install ESP32 versi 2.0.11
 Use Provided Libraries. Replace your existing ones
 
+video : https://www.youtube.com/watch?v=QIhbkdQMyX8
 
 TFT-IL9431
 ------
